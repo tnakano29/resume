@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>INRIA</a>. TAU(TAckling the Underspecified) team
+subtitle: <a href='#'>INRIA</a> TAU(TAckling the Underspecified) team
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: tamon_NAKANO.jpg
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
