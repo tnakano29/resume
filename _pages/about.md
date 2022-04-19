@@ -6,7 +6,7 @@ subtitle: <a href='#'>INRIA</a> TAU(TAckling the Underspecified) team
 
 profile:
   align: right
-  image: tamon_NAKANO.jpg
+  image: tamon_NAKANO.png
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
