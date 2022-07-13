@@ -14,5 +14,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a postdoctoral researcher in TAU team of INRIA. I am currently working on an application of AI on flow simulations (CFD). See also my [publications](/tnakano29/publications/)
+I am a postdoctoral researcher in TAU team of INRIA. I am currently working on an application of AI on flow simulations (CFD). See also my [publications](/publications/)
 
